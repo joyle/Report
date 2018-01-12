@@ -258,5 +258,6 @@ $$s.t. \ \ \    A^T * H \le b$$
     《华泰多因子系列之一：华泰多因子模型体系初探》
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDU4NTU4MywxMDcxNzYwMjU3XX0=
+eyJoaXN0b3J5IjpbMTA3MTc2MDI1NywyMTE0NTg1NTgzLDEwNz
+E3NjAyNTddfQ==
 -->
