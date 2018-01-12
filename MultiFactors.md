@@ -105,6 +105,7 @@
 ### 2.3    回归法分析
 
 **回归法是最常用于检验因子有效性的方法**，具体来说它是将T期因子的暴露度与T+1的股票收益率进行回归，所得的回归系数即为T期的因子收益率。回归模型中包含行业哑变量，若因子在前面的行业分析中发现与行业有明显相关性，则该模型能够排除行业差异影响。模型具体如下：
+
 $$
 \gamma_i^{T+1}=\sum_j{\beta_j^T * Industry_{j,i}^T} + \beta_F^T * Factor_i^T + \mu_i^T
 $$
@@ -257,5 +258,5 @@ $$s.t. \ \ \    A^T * H \le b$$
     《华泰多因子系列之一：华泰多因子模型体系初探》
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg1MzU3MjVdfQ==
+eyJoaXN0b3J5IjpbMTA3MTc2MDI1N119
 -->
